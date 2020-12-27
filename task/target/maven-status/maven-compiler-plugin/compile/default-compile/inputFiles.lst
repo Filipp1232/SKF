@@ -1,0 +1,9 @@
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\TaskApplication.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\configuration\SwaggerConfig.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\service\RepositoryMessageService.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\configuration\RedisConfig.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\model\Message.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\api\MessageService.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\repository\MessageRepository.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\api\MessageFindRequest.java
+C:\Users\user\IdeaProjects\task\src\main\java\com\skf\task\web\boundary\MessageResource.java

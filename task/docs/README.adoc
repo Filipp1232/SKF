@@ -1,0 +1,21 @@
+= MS SKF
+
+== Uruchamianie redis server
+[source%autofit,bash]
+----
+$ cd docker
+$ docker-compose build
+$ docker-compose up
+----
+
+== Uruchamianie aplikacji
+[source%autofit,bash]
+----
+$ ./mvn spring-boot:run
+----
+
+== Swagger
+[source%autofit,bash]
+----
+$ Swagger url http://localhost:8080/skf/swagger-ui.html
+----

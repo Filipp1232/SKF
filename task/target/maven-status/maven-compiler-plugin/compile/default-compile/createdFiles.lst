@@ -1,0 +1,11 @@
+com\skf\task\configuration\RedisConfig.class
+com\skf\task\service\RepositoryMessageService.class
+com\skf\task\model\Message$MessageBuilder.class
+com\skf\task\configuration\SwaggerConfig.class
+com\skf\task\api\MessageService.class
+com\skf\task\model\Message.class
+com\skf\task\api\MessageFindRequest$MessageFindRequestBuilder.class
+com\skf\task\api\MessageFindRequest.class
+com\skf\task\repository\MessageRepository.class
+com\skf\task\TaskApplication.class
+com\skf\task\web\boundary\MessageResource.class
