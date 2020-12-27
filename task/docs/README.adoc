@@ -1,6 +1,6 @@
 = MS SKF
 
-== Uruchamianie redis server
+== To start redis you need
 [source%autofit,bash]
 ----
 $ cd docker
@@ -8,10 +8,10 @@ $ docker-compose build
 $ docker-compose up
 ----
 
-== Uruchamianie aplikacji
+== To start application you need
 [source%autofit,bash]
 ----
-$ ./mvn spring-boot:run
+$ mvn spring-boot:run
 ----
 
 == Swagger

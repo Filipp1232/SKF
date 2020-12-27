@@ -39,7 +39,7 @@ public class RepositoryMessageService implements MessageService {
 
   @Override
   public Message getLast() {
-    log.trace("Getting last message");
+    log.info("Getting last message");
     List<Message> messages = (List<Message>) messageRepository.findAll();
     messages.sort(Comparator.comparing(Message::getCreatedTime));
     return messages.stream().reduce((first, second) -> second)
