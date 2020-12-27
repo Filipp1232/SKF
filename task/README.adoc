@@ -1,6 +1,6 @@
 = MS SKF
 
-== Uruchamianie redis server
+== To start redis you need
 [source%autofit,bash]
 ----
 $ cd docker
